@@ -3,7 +3,7 @@ import { Button, Modal, Spin, Tooltip, Typography } from "antd";
 import { ethers } from "ethers";
 import QR from "qrcode.react";
 import React, { useState, useEffect } from "react";
-import { Notifier } from "../helpers";
+import { Notifier } from "../../helpers";
 import Address from "./Address";
 import AddressInput from "./AddressInput";
 import Balance from "./Balance";

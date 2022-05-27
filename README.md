@@ -1,5 +1,5 @@
 # Getting Started with Web3 and Eth-Hooks Startup Template
-
+#### These template comes with some other components that wil make your work faster
 ## Available Scripts
 
 In the project directory, you can run:
